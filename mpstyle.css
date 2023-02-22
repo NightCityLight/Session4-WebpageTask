@@ -678,7 +678,7 @@ footer .special-line img{
     align-items: center;
 }
 
-@media (max-width: 800px){
+@media (max-width: 770px){
 
     #nav {
         display: flex;
